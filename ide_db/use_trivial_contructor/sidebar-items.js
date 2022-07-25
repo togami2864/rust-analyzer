@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["use_trivial_constructor","given a type return the trivial contructor (if one exists)"]]});
